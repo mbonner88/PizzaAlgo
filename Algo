@@ -5,3 +5,11 @@ Decide what toppings
 Decide on pizza size
 Call the pizza shop
 Place the order
+    If paying by card
+        -provide card info to pay for food
+        -await delivery
+        -tip driver
+    If paying by cash
+        -prepare payment
+        -await delivery
+        -pay for food and tip
